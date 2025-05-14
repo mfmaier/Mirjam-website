@@ -1,0 +1,63 @@
+---
+title: "Strategic Marketing"
+---
+
+Below are selected projects that reflect my hybrid background in video editing, content strategy, and marketing analytics. Whether managing campaigns or crafting brand narratives through visual media, I bring both creative direction and data fluency to every project.
+
+## Full-Funnel Campaign Strategy: HBO Max Growth Marketing
+
+While working on HBO Max campaigns, I helped produce and optimize promotional content that drove strong engagement—including a top-performing *Batman* promo with a 340% CTR lift. My focus was on aligning creative execution with platform strategy, ensuring consistency across media touchpoints.
+
+**Skills Demonstrated:**
+
+- **Content Strategy:** Tailored messaging and video assets for audience segments.
+- **Performance Optimization:** Managed versioning and final delivery to maximize reach.
+- **Data-Informed Adjustments:** Refined campaign content based on performance insights.
+- **Cross-Functional Workflow:** Coordinated with editorial, marketing, and QC teams.
+
+🎬 *HBO Max: Batman Promo I edited:*  
+
+<video width="100%" controls>
+  <source src="videos/hbo-batman-promo-mirjam.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Brand Storytelling Audit: Warner Bros. Discovery (WBTV)
+
+At WBTV Creative Services, I contributed to a comprehensive review of promotional content for marketing campaigns. I optimized sizzles, promos, and EPKs to align with WB's storytelling tone, ensuring strategic cohesion across branded content.
+
+**Skills Demonstrated:**
+
+- **Brand Voice Alignment:** Ensured visuals and edits reflected WB's identity.
+- **Project Workflow Optimization:** Managed AVID setups to streamline production.
+- **Narrative Editing:** Curated storylines to better serve marketing objectives.
+- **Visual Communication:** Translated brand values into cohesive promotional assets.
+
+---
+
+## Launch Planning & Market Positioning: Freelance Client Campaigns
+
+In my freelance work for brands like Afterburner LA and Good Intentions Paving Co., I developed launch and content strategies tailored to each brand’s unique goals. I balanced video production, platform optimization, and engagement analytics to deliver results.
+
+**Skills Demonstrated:**
+
+- **Go-To-Market Planning:** Mapped launch assets across social and web channels.
+- **Creative Direction:** Oversaw visual execution from storyboard to final edit.
+- **Engagement Strategy:** Used analytics to refine messaging post-launch.
+- **Client Collaboration:** Translated marketing goals into tailored media strategies.
+
+---
+
+##  Consulting & Optimization: TRI YouTube SEO Project
+
+As part of a strategic consulting project for the Trauma Resource Institute, I led SEO and metadata optimization for their YouTube channel. The goal was to improve discoverability and align content with user search intent.
+
+**Skills Demonstrated:**
+
+- **Search Strategy:** Identified high-volume keywords and optimized titles/descriptions.
+- **Competitive Benchmarking:** Evaluated peer channels and implemented best practices.
+- **Content Categorization:** Proposed playlists and structure to improve UX.
+- **Analytics Reporting:** Delivered before/after performance comparisons.
+

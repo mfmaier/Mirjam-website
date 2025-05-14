@@ -1,0 +1,99 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Mirjam_Maier_Resume.pdf).
+
+# Professional Summary
+
+Creative video editor and marketing professional with experience crafting high-quality content for digital platforms, commercials, and corporate storytelling. Adept at post-production editing, motion graphics, and optimizing content for social media engagement. Passionate about innovation, inclusivity, and elevating brand narratives through data-driven strategy and visual storytelling.
+
+# Technical Skills
+
+**Video & Post-Production:** Adobe Premiere Pro, After Effects, DaVinci Resolve, AVID Media Composer  
+- **Creative Suite:** Adobe Photoshop, Illustrator  
+- **Content Strategy & Platforms:** Instagram, Facebook, YouTube, TikTok  
+- **Other Tools:** R, Quarto, SEO/Metadata Optimization  
+- **Core Skills:** Project Management, Creative Direction, Analytics-Based Strategy
+
+
+# Education
+
+| Degree                                          | Year            | College / Department                      | Institution                                |
+| -----------------------------------------------|-----------------|-------------------------------------------|--------------------------------------------|
+| M.S. Digital Marketing                         | Exp. 2025       | International Business & Marketing        | Cal Poly Pomona                            |
+| B.A. Film & Television Production              | 2023            | School of Cinematic Arts                  | University of Southern California (USC)     |
+| A.A. Film Production, Int’l Business, Marketing| 2021            | Film & Business Departments               | Santa Barbara City College                 |
+
+# Work Experience
+
+### Video Editor – Freelance  
+*2021 – Present, Los Angeles, CA*
+
+- Edited commercials, documentaries, and corporate videos for brands and agencies.  
+- Managed post-production workflows: color correction, motion graphics, audio design.  
+- Optimized video content for social media, increasing audience engagement.  
+- **Clients:** Afterburner LA, Valkyr Productions, Good Intentions Paving Co., and more.
+
+---
+
+### Instructional Student Assistant – Cal Poly Pomona  
+*2024 – Present, Pomona, CA*
+
+- Assisted in teaching and grading for undergraduate Marketing Management courses.  
+- Provided student support on projects, case studies, and course concepts.  
+- Reinforced marketing theory through real-world applications and discussions.
+
+---
+
+### Micro-Intern – Trauma Resource Institute (TRI)  
+*2024 – 2025, Remote*
+
+- Led SEO optimization efforts for TRI’s YouTube channel to improve discoverability.  
+- Conducted keyword research, metadata rewriting, and competitor benchmarking.  
+- Created a structured strategy for playlists, content themes, and audience targeting.  
+
+---
+
+### Assistantt Video Editor – WBTV Creative Services (Warner Bros. Discovery)  
+*Spring 2023, Los Angeles, CA*
+
+- Edited and optimized promos, sizzles, and EPKs for marketing campaigns.  
+- Managed AVID project setup and post-production workflow.  
+- Organized raw footage and enhanced brand storytelling through strategic editing.
+
+---
+
+### Teacher Assistant & Post Production Lab Technician – USC School of Cinematic Arts  
+*2021 – 2023, Los Angeles, CA*
+
+- Supported faculty in teaching editing techniques for sitcom and drama courses.  
+- Managed lab sessions and ensured industry-standard post-production practices.  
+- Guided students on AVID, Adobe tools, and post workflows.
+
+---
+
+### Growth Marketing Assistant Video Editor – HBO Max  
+*Spring 2022, Los Angeles, CA*
+
+- Edited promotional content, managed QC, versioning, and delivery.  
+- Produced a high-performing *Batman* promo with a 340% CTR lift.  
+- Supported marketing team through data-driven content creation.
+
+---
+
+### Social Media Marketing Director – Santa Barbara City College  
+*2019 – 2021, Santa Barbara, CA*
+
+- Created graphics and videos to enhance social media presence.  
+- Developed campaign content that supported student initiatives and brand voice.

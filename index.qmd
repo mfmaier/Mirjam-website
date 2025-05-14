@@ -1,0 +1,29 @@
+---
+title: "Hi, I'm Mirjam"
+---
+
+
+::: {.columns}
+::: {.column width="30%"}
+![](images/headshot.jpg){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a Master's student in Digital Marketing with a background in film production and a passion for storytelling through data and design. My portfolio showcases projects that combine marketing analytics and creative strategy to help brands grow smarter in a digital world.
+
+This site features selected work in marketing strategy, data visualization, and analytics modeling. Whether it’s understanding post-COVID consumer behaviors or building dashboards to track brand health, I strive to bring clarity and creativity to data-driven decision-making.
+:::
+:::
+
+## About Me
+
+I hold a <span class="highlight">Master of Sciene in Digital Marketing</span> from Cal Poly Pomona.
+
+
+
+## Let's Connect
+
+You can [email me](mirjam.maier@icloud.com) or connect on [LinkedIn](https://www.linkedin.com/in/mirjam-maier-6a05681b0/).
+
+---
+
+*Welcome to my portfolio.*

@@ -1,0 +1,23 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that reflect my hands-on experience applying marketing analytics to real-world problems, bridging data, storytelling, and strategy. Each project showcases how I use tools like R, Quarto, and dashboards to surface insights that inform smarter marketing decisions.
+
+Whether I’m building dashboards to visualize campaign trends, analyzing audience behavior post-COVID, or using SEO and search data to guide content strategy, I’m driven by a desire to make complex data more intuitive, engaging, and actionable.
+
+
+## What You’ll Find
+
+- **Campaign Performance Analysis:** Breaking down what worked (and what didn’t) in digital campaigns to guide next steps.
+- **Data Visualization:** Designing clean, interactive visuals that make marketing results easy to understand and share.
+- **Marketing Mix & Attribution:** Digging into how different channels contribute to awareness, engagement, and conversions.
+- **Customer & Market Insights:** Uncovering trends in behavior and sentiment to help brands better connect with their audience.
+
+---
